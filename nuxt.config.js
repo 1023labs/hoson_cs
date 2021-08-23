@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - hoson_uc',
-    title: 'hoson_uc',
+    titleTemplate: '%s - 호손(주)',
+    title: '호손(주)',
     htmlAttrs: {
       lang: 'en'
     },
