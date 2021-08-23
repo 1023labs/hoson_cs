@@ -2,3 +2,9 @@
 //
 // The variables you want to modify
 // $font-size-root: 20px;
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+
+$body-font-family: 'NanumSquareRound', "Roboto", sans-serif, serif;
+$title-font: 'NanumSquareRound', "Roboto", sans-serif, serif;
+
+$font-size-root: 24px;

@@ -1,8 +1,6 @@
 <template>
   <img
-    class="VuetifyLogo"
-    alt="Vuetify Logo"
-    src="/vuetify-logo.svg"
+    src="/logo_hoson.jpg"
   >
 </template>
 
