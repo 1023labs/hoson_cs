@@ -1,7 +1,9 @@
 <template>
-  <img
+  <v-img
     src="/logo_hoson.jpg"
-  >
+    max-width="500"
+    width="100%"
+  ></v-img>
 </template>
 
 <style>
