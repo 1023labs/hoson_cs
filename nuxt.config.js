@@ -9,7 +9,7 @@ export default {
     titleTemplate: '%s - 호손(주)',
     title: '호손(주)',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ko'
     },
     meta: [
       { charset: 'utf-8' },
